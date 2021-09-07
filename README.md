@@ -12,21 +12,9 @@
 ### Connect with me:
 
 [<img align="left" alt="marnoux.github.io/me/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Marnoux | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Marnoux | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter-light.svg" />][twitter]
 [<img align="left" alt="Marnoux | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Marnoux | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
----
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.marnoux.vercel.app/api?username=marnoux&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://marnoux.github.io/me/
 [twitter]: https://twitter.com/MarnouxM
