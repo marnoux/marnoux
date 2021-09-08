@@ -19,4 +19,4 @@
 [website]: https://marnoux.github.io/me/
 [twitter]: https://twitter.com/MarnouxM
 [instagram]: https://www.instagram.com/marnouxm/
-[linkedin]: www.linkedin.com/in/MarnouxM
+[linkedin]: https://www.linkedin.com/in/MarnouxM
