@@ -5,9 +5,9 @@
 
 ## I'm a Husband, Father, Developer and Musician
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development Frameworks
+- 🌱 I’m currently spending time learning all aspects of Front End Development
 - 📫 You can reach me via email on marnouxmanser@gmail.com
-- 🥅 2021 Goals: Make a difference
+- 🥅 2022 Goals: Make a difference
 
 ### Connect with me:
 
