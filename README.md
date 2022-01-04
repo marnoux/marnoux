@@ -7,7 +7,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently spending time learning all aspects of Front End Development
 - 📫 You can reach me via email on marnouxmanser@gmail.com
-- 🥅 2022 Goals: Make a difference
+- 🥅 2022 Goals: Make a difference, be a good father, husband and human. 
 
 ### Connect with me:
 
