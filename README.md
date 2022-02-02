@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/MarnouxM?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%MarnouxM&screen_name=MarnouxM)
 
 ## I'm a Husband, Father, Developer and Musician
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development, Music & Motorsport. 
 - 🌱 I’m currently spending time learning all aspects of Front End Development
 - 📫 You can reach me via email on marnouxmanser@gmail.com
 - 🥅 2022 Goals: Make a difference, be a good father, husband and human. 
