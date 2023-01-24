@@ -1,7 +1,6 @@
 ### 👋 Hi there,  I'm [Marnoux][website]
 
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://marnoux.dev)](https://marnoux.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MarnouxM?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%MarnouxM&screen_name=MarnouxM)
 
 ## I'm a Husband, Father, Developer and Musician
 - 👀 I’m interested in Web Development, Music & Motorsport. 
