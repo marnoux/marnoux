@@ -6,7 +6,7 @@
 - 👀 I’m interested in Web Development, Music & Motorsport. 
 - 🌱 I’m currently spending time learning all aspects of Front End Development
 - 📫 You can reach me via email on marnouxmanser@gmail.com
-- 🥅 2024 Goals: Make a difference, be a good father, husband and human. 
+- 🥅 2025 Goals: Make a difference, be a good father, husband and human. 
 
 ### Connect with me:
 
